@@ -1,6 +1,6 @@
 {
  "name": "Restaurante O Pereira",
- "start_url": "index.htm?installed=true",
+ "theme_color": "#000000",
  "display": "fullscreen",
  "icons": [
   {
@@ -39,6 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#000000",
- "theme_color": "#000000"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000"
 }
